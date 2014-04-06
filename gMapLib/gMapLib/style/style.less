@@ -1,0 +1,28 @@
+﻿@body-bg: blue;
+@map-container-height: 100%;
+@map-container-width: 100%;
+@map-container-bg: red;
+@map-content-bg: yellow;
+@static-map: "http://maps.google.com/maps/api/staticmap?center=14.5977000,121.0109000&scale=2&zoom=17&size=400x300&maptype=roadmap&sensor=false&language=en";
+
+body {
+    margin: 3px;
+    background-color: @body-bg;
+}
+
+#map-container {
+    height: @map-container-height;
+    width: @map-container-width;
+    background-color: @map-container-bg;
+    min-height: 1px;
+}
+
+#map-content {
+    height: 100%;
+    width: 100%;
+    background-color: @map-content-bg;
+    min-height: 1px;
+    background-image: url("@{static-map}");  // lets display static map while we load the interactive map
+    background-repeat:no-repeat;  
+    
+}

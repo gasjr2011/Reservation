@@ -1,0 +1,5 @@
+C:\Projects\CSD\gMapLib\gMapLib\bin\gMapLib.dll
+C:\Projects\CSD\gMapLib\gMapLib\bin\gMapLib.pdb
+C:\Projects\CSD\gMapLib\gMapLib\obj\Debug\gMapLib.csprojResolveAssemblyReference.cache
+C:\Projects\CSD\gMapLib\gMapLib\obj\Debug\gMapLib.dll
+C:\Projects\CSD\gMapLib\gMapLib\obj\Debug\gMapLib.pdb

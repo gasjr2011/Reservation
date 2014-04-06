@@ -1,0 +1,1 @@
+body{margin:3px;background-color:#00f}#map-container{height:100%;width:100%;background-color:red;min-height:1px}#map-content{height:100%;width:100%;background-color:#ff0;min-height:1px;background-image:url("http://maps.google.com/maps/api/staticmap?center=14.5977000,121.0109000&scale=2&zoom=17&size=400x300&maptype=roadmap&sensor=false&language=en");background-repeat:no-repeat}
